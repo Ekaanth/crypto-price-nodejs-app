@@ -2,9 +2,8 @@
   "name": "crypto-price-nodejs-app",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
