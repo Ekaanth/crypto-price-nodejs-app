@@ -1,0 +1,11 @@
+{
+  "name": "create-circom",
+  "version": "0.0.1",
+  "description": "This is a tooling for circom, to get started in creating easy circom projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek <akanth1994@gmail.com>",
+  "license": "MIT"
+}
